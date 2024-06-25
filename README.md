@@ -47,6 +47,8 @@ tips: can be directly dragged into comfyui
 - background remove
   - BRIA 1.4（could deal with video）
   <img src="workflows/tools/background_remove_BRIA.png">
+- inpaint model, inpaint mouth
+  <img src="workflows/tools/inpaint_mouth.png">
 
 
 ### 高级工作流
