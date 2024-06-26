@@ -74,7 +74,10 @@ tips: can be directly dragged into comfyui
   <img src="workflows/advanced/auto_clothes_with_attn_masked_ipadapter_and_animatediff.png">
   <img src="resource/advanced/clothes.jpg" width="384" height="512">
   <img src="resource/advanced/auto_clothes_combine.gif" width="540" height="960" alt="auto clothes example">
-
+- InstantID 和 ipadapter 结合，生成特定风格的任务，感谢大佬 [cubiq](https://github.com/cubiq/ComfyUI_InstantID/blob/main/examples/InstantID_IPAdapter.json)
+  <img src="workflows/advanced/instantID_with_ipadapter.png">
+- InstantID 和 controlnet depth 结合，生成指定动作的任务形象
+  <img src="workflows/advanced/instantID_with_depth.png">
 ### comfyui 插件说明
 
 - https://github.com/ltdrdata/ComfyUI-Impact-Pack
