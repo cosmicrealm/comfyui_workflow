@@ -78,6 +78,8 @@ tips: can be directly dragged into comfyui
   <img src="workflows/advanced/instantID_with_ipadapter.png">
 - InstantID 和 controlnet depth 结合，生成指定动作的任务形象
   <img src="workflows/advanced/instantID_with_depth.png">
+- sdxl + ipadapter, 强风格转换
+  <img src="workflows/advanced/ipadapter_strong_style_transfer.png">
 ### comfyui 插件说明
 
 - https://github.com/ltdrdata/ComfyUI-Impact-Pack
