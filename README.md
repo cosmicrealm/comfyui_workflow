@@ -87,3 +87,4 @@ tips: can be directly dragged into comfyui
 - https://github.com/rgthree/rgthree-comfy
 - https://github.com/pythongosssss/ComfyUI-Custom-Scripts
 - https://github.com/Suzie1/ComfyUI_Comfyroll_CustomNodes
+- 
