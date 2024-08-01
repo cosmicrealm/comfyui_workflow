@@ -80,6 +80,15 @@ tips: can be directly dragged into comfyui
   <img src="workflows/advanced/instantID_with_depth.png">
 - sdxl + ipadapter, 强风格转换
   <img src="workflows/advanced/ipadapter_strong_style_transfer.png">
+- easyanimate，图像到视频或者 文本到视频, ref from [easyanimate](https://github.com/aigc-apps/EasyAnimate/blob/main/comfyui/README.md)
+  <img src="workflows\advanced\easyanimate.png">
+  <img src="resource/advanced/easyanimate.gif" width="960" height="576" alt="easyanimatediff example">
+### 常见 prompt
+- positive
+  - 
+- negative
+  - 
+
 ### comfyui 插件说明
 
 - https://github.com/ltdrdata/ComfyUI-Impact-Pack
