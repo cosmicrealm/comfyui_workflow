@@ -83,11 +83,15 @@ tips: can be directly dragged into comfyui
 - easyanimate，图像到视频或者 文本到视频, ref from [easyanimate](https://github.com/aigc-apps/EasyAnimate/blob/main/comfyui/README.md)
   <img src="workflows\advanced\easyanimate.png">
   <img src="resource/advanced/easyanimate.gif" width="960" height="576" alt="easyanimatediff example">
+
 ### 常见 prompt
+
 - positive
-  - 
+  -  high quality, and the view is very clear. High quality, masterpiece, best quality, highres, ultra-detailed, fantastic.
+  -  
 - negative
-  - 
+  -  strange motion trajectory, a poor composition and deformed video, low resolution, duplicate and ugly, strange body structure, long and strange neck, bad teeth, bad eyes, bad limbs, bad hands, rotating camera, blurry camera, shaking camera. Deformation, low-resolution, blurry, ugly, distortion.
+  -  
 
 ### comfyui 插件说明
 
