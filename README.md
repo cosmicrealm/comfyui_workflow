@@ -47,6 +47,7 @@ tips: can be directly dragged into comfyui
 - background remove
   - BRIA 1.4（could deal with video）
   <img src="workflows/tools/background_remove_BRIA.png">
+  <img src="workflows/tools/briaai_matting_human.png">
 - inpaint model, inpaint mouth
   <img src="workflows/tools/inpaint_mouth.png">
 
@@ -83,6 +84,11 @@ tips: can be directly dragged into comfyui
 - easyanimate，图像到视频或者 文本到视频, ref from [easyanimate](https://github.com/aigc-apps/EasyAnimate/blob/main/comfyui/README.md)
   <img src="workflows\advanced\easyanimate.png">
   <img src="resource/advanced/easyanimate.gif" width="960" height="576" alt="easyanimatediff example">
+- hunyuan Dit 中文理解能力强,古诗词和概念组合
+  <img src="workflows/advanced/hunyuan_dit.png">
+  <img src="workflows/advanced/hunyuan_dit2.png">
+  <img src="workflows/advanced/hunyuan_dit3.png">
+  <img src="workflows/advanced/hunyuan_dit4.png">
 
 ### 常见 prompt
 
