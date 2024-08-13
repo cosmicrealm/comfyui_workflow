@@ -18,13 +18,10 @@ tips: can be directly dragged into comfyui
 - svd basic
   <img src="workflows/basic/svd_basic.png">
   ![svd example](resource/basic/svd_00001.gif)
-  <!-- <video width="320" height="240" controls>
-    <source src="resource/basic/svd_00001.mp4" type="video/mp4">
-  </video> -->
-<!-- - sd cascade
-  <img src="workflows/basic/sd_cascade_basic.png"> -->
 - sd3 medium
   <img src="workflows/basic/sd3_medium_basic.png">
+- flux1-dev, 文本控制力强，模型强大
+  <img src="workflows/basic/flux1_dev.png">
 
 ### 工具
 - reactor, 换脸简单示例
