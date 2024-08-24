@@ -92,6 +92,7 @@ tips: can be directly dragged into comfyui
   - 基于 sd15 的 base 模型，可以根据参考图片反推提示词
   <img src="workflows/advanced/ai-photo-graphy-sd15.png">
   <img src="resource/advanced/ai-photo-graphy-sd15-combine.png">
+  
   - 利用 segformer 进行人物主体分割，比使用 dino 和 sam 更轻量
   <img src="workflows/advanced/ai-photo-graphy-sd15-simple.png">
 
