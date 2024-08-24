@@ -96,6 +96,9 @@ tips: can be directly dragged into comfyui
   - 利用 segformer 进行人物主体分割，比使用 dino 和 sam 更轻量
   <img src="workflows/advanced/ai-photo-graphy-sd15-simple.png">
 
+- fluxdev 局部重绘，保持人物脸部区域，重新按照 prompt 绘制其他区域，对图片比较敏感，可能泛化性不够好
+  <img src="workflows/advanced/flux1dev_local_regenerate.png">
+
 ### 常见 prompt
 
 - positive
